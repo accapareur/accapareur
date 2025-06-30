@@ -10,6 +10,12 @@
        width="450" style="border-radius: 12px;"/>
 </p>
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/24/82/b2/2482b2e6b7ef6cc5b7b39e444b8f42eb.jpg"
+       alt="Aston Martin Image"
+       width="450" style="border-radius: 12px; margin-top: 20px;"/>
+</p>
+
 ---
 
 ## 🖥️ My software languages
