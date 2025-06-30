@@ -16,10 +16,3 @@
        width="450" style="border-radius: 12px; margin-top: 20px;"/>
 </p>
 
----
-
-## 🖥️ My software languages
-[![My Skills](https://skillicons.dev/icons?i=py,nodejs)](https://skillicons.dev)
-
-## ⭐ My web languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
