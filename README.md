@@ -1,44 +1,46 @@
 <!DOCTYPE html>
-<html lang="fr">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <title>Profil utilisateur</title>
+  <title>Profil Accapareur</title>
 </head>
 <body>
 
-  <!-- Photo de profil -->
+  <!-- Profil -->
   <div>
-    <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="Avatar" width="120" height="120" />
-    <div>★</div>
+    <img src="chemin/vers/image_profil.png" alt="Photo de profil">
+    <h1>accapareur</h1>
+    <p>Money doesn't buy happiness, but I want to cry in an Aston</p>
   </div>
 
-  <!-- Nom d'utilisateur -->
-  <h1>Utilisateur#1234</h1>
-
-  <!-- ID -->
-  <p>En ligne</p>
-
-  <!-- Texte de statut -->
-  <p>Money doesn't buy happiness, but I want to cry in an Aston.</p>
-
-  <!-- Section "épuisant" -->
+  <!-- Musique en cours -->
   <div>
-    <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Petit avatar" width="48" height="48" />
-    <span>épuisant 😓🔥</span>
-    <p>Déjà 2h que je tiens, mais c’est chaud...</p>
-    <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?auto=format&fit=crop&w=80&q=80" alt="Album" width="56" height="56" />
+    <p><strong>epuisant</strong></p>
+    <p>Listening to <em>Fashion Killa</em><br>by A$AP Rocky</p>
+    <img src="chemin/vers/image_album1.png" alt="Image 1">
+    <img src="chemin/vers/image_album2.png" alt="Image 2">
   </div>
 
-  <!-- Bas de page - réseaux sociaux -->
+  <!-- Liens vers réseaux -->
   <div>
-    <a href="https://twitter.com/" target="_blank">🐦 Twitter</a>
-    <a href="https://instagram.com/" target="_blank">📸 Instagram</a>
-    <a href="https://www.google.com" target="_blank">🌐 Site web</a>
+    <p>
+      <a href="https://discord.com/users/ton_id" target="_blank">Discord</a><br>
+      <a href="https://www.instagram.com/ton_profil" target="_blank">Instagram</a><br>
+      <a href="https://open.spotify.com/user/ton_id" target="_blank">Spotify</a><br>
+      <a href="https://tonsiteweb.com" target="_blank">Site Web</a>
+    </p>
   </div>
 
-  <!-- Compteur de vues -->
+  <!-- Pièces jointes (ex. fichiers ou documents) -->
   <div>
-    14,367 vues
+    <p>
+      <a href="chemin/vers/fichier1.pdf" download>Télécharger fichier 1</a><br>
+      <a href="chemin/vers/fichier2.zip" download>Télécharger fichier 2</a>
+    </p>
+  </div>
+
+  <!-- Vue / compteur -->
+  <div>
+    <p>Vues : 14</p>
   </div>
 
 </body>
