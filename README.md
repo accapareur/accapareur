@@ -12,7 +12,7 @@
       <p>Money doesn't buy happiness, but I want to cry in an Aston</p>
     </div>
 
-    <!-- Musique -->
+  
     <div>
       <p><strong>epuisant</strong></p>
       <p>Listening to <em>Fashion Killa</em><br>by A$AP Rocky</p>
@@ -20,7 +20,7 @@
       <img src="chemin/vers/image_album2.png" alt="Image 2">
     </div>
 
-    <!-- Réseaux -->
+
     <div>
       <p>
         <a href="https://discord.com/users/ton_id" target="_blank">Discord</a><br>
