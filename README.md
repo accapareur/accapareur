@@ -1,45 +1,19 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Profil Accapareur</title>
-</head>
-<body>
-  <center>
-    <!-- Profil -->
-    <div>
-      <img src="chemin/vers/image_profil.png" alt="Photo de profil">
-      <h1>accapareur</h1>
-      <p>Money doesn't buy happiness, but I want to cry in an Aston</p>
-    </div>
+# 💸 QUOTE
 
-  
-    <div>
-      <p><strong>epuisant</strong></p>
-      <p>Listening to <em>Fashion Killa</em><br>by A$AP Rocky</p>
-      <img src="chemin/vers/image_album1.png" alt="Image 1">
-      <img src="chemin/vers/image_album2.png" alt="Image 2">
-    </div>
+> **`Money` doesn't buy happiness, but I want to cry in an `Aston`.**
+
+---
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1335231401926070313/1350474777558782065/telechargement.gif?ex=684645e5&is=6844f465&hm=961ae3c402d2e6b90f25a83e4213c2e6bbd9e59dbb50a7e2e628677d031f75c6&=&width=449&height=253" 
+       alt="Aston Crying GIF" 
+       width="450" style="border-radius: 12px;"/>
+</p>
+
+<p align="center">
+  <img src="https://i.pinimg.com/736x/24/82/b2/2482b2e6b7ef6cc5b7b39e444b8f42eb.jpg"
+       alt="Aston Martin Image"
+       width="450" style="border-radius: 12px; margin-top: 20px;"/>
+</p>
 
 
-    <div>
-      <p>
-        <a href="https://discord.com/users/ton_id" target="_blank">Discord</a><br>
-        <a href="https://www.instagram.com/ton_profil" target="_blank">Instagram</a><br>
-        <a href="https://open.spotify.com/user/ton_id" target="_blank">Spotify</a><br>
-        <a href="https://tonsiteweb.com" target="_blank">Site Web</a>
-      </p>
-    </div>
-
-    <!-- Pièces jointes -->
-    <div>
-      <a href="chemin/vers/fichier1.pdf" download>Télécharger fichier 1</a><br>
-      <a href="chemin/vers/fichier2.zip" download>Télécharger fichier 2</a>
-    </div>
-
-    <!-- Vues -->
-    <div>
-      <p>Vues : 14</p>
-    </div>
-  </center>
-</body>
-</html>
